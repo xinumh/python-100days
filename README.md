@@ -10,3 +10,5 @@ python入门学习100天
 [004-Python 流程控制](/python-004.md)
 
 [005-Python 函数](/python-005.md)
+
+[006-Python 模块和包](/python-006.md)
