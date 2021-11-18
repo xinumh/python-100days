@@ -8,3 +8,5 @@ python入门学习100天
 [003-Python 变量与数据类型](/python-003.md)
 
 [004-Python 流程控制](/python-004.md)
+
+[005-Python 函数](/python-005.md)
