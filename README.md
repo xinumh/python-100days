@@ -14,3 +14,5 @@ python入门学习100天
 [006-Python 模块和包](/python-006.md)
 
 [007-Python 数据结构--序列](/python-007.md)
+
+[008-Python List](/python-008.md)
