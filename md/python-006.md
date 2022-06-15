@@ -1,1 +1,1 @@
-<img src='assets/006-Python 模块和包.jpg' width="100%" />
+<img src='../assets/006-Python 模块和包.jpg' width="100%" />

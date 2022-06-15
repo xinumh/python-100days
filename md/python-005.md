@@ -1,1 +1,1 @@
-<img src='assets/005-Python 函数.jpg' width="100%" />
+<img src='../assets/005-Python 函数.jpg' width="100%" />

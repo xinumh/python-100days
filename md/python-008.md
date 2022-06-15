@@ -1,1 +1,1 @@
-<img src='assets/008-Python list.jpg' width="100%" />
+<img src='../assets/008-Python list.jpg' width="100%" />

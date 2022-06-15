@@ -1,1 +1,1 @@
-<img src='assets/007-Python 数据结构--序列.jpg' width="100%" />
+<img src='../assets/007-Python 数据结构--序列.jpg' width="100%" />
